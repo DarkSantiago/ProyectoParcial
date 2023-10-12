@@ -1,0 +1,3 @@
+funcion de pelar papas.
+
+la funcion de pelar papas ya funciona !!!
